@@ -1,6 +1,7 @@
 # DFC-DETR
 Dynamic Sparse Attention and Frequency-Spatial Complementary Network for SAR Ship Detection
 
+---
 # Experiments Environment
 * **Operating System:** Ubuntu 22.04 v1.5
 * **GPU:** NVIDIA GeForce RTX 4090 24GB
@@ -11,6 +12,10 @@ Dynamic Sparse Attention and Frequency-Spatial Complementary Network for SAR Shi
 * **mmcv:** >=2.0.0
 * **timm:** 1.0.7
 
+---
 # Environment Configuration
 run the following commands:
 * `python setup.py develop`
+  
+---
+# Dataset Download at:
