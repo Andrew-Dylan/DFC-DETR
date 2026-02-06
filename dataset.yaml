@@ -1,0 +1,11 @@
+# your dataset path
+path: /root/your-dataset/
+train: ./images/train
+val: ./images/val
+# test: ./images/test  # if you have test set
+
+# number of classes
+nc: 1
+
+# class names
+names: ['your-class-name']
