@@ -10,3 +10,7 @@ Dynamic Sparse Attention and Frequency-Spatial Complementary Network for SAR Shi
 * **torchvision:** 0.17.2+cu121
 * **mmcv:** >=2.0.0
 * **timm:** 1.0.7
+
+# Environment Configuration
+run the following commands:
+* `python setup.py develop`
