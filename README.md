@@ -17,5 +17,5 @@ run the following commands:
 
 # Dataset Download at:
 Train, Val
-* **SSDD Dataset:** https://github.com/TianwenZhang0825/Official-SSDD
-* **HRSID Dataset:** https://github.com/chaozhong2010/HRSID
+* **SSDD Dataset(8:2):** https://github.com/TianwenZhang0825/Official-SSDD
+* **HRSID Dataset(6.5:3.5):** https://github.com/chaozhong2010/HRSID
