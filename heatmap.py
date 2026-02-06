@@ -215,7 +215,7 @@ class rtdetr_heatmap:
         else:
             self.process(img_path, f'{save_path}/result.png')
 
-def get_params():
+def get_params(): 
     params = {
         'weight': r'your-model-path',
         'device': 'cuda:0', 
