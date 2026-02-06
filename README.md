@@ -2,7 +2,7 @@
 Dynamic Sparse Attention and Frequency-Spatial Complementary Network for SAR Ship Detection
 
 # Experiments Environment
-* **Operating System:** Ubuntu 22.04 v1.5
+* **Operating System:** Ubuntu 22.04
 * **GPU:** NVIDIA GeForce RTX 4090 24GB
 * **CPU:** INTEL(R) XEON(R) GOLD 6530
 * **Python:** 3.11.8
